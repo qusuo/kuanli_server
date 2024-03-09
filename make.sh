@@ -46,7 +46,7 @@ elif [ $cmd = "init" ]; then
         >/dev/null
     then
         echo "Installing autoconf..."
-        sudo apt-get update
+        #sudo apt-get update
         sudo apt-get install -y autoconf
         sudo apt-get install build-essential
     else
