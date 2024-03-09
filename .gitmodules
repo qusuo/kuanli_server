@@ -2,3 +2,6 @@
 	path = pbc
 	url = https://github.com/ZhouWeikuan/pbc
 
+[submodule "skynet"]
+	path = skynet
+	url = https://github.com/cloudwu/skynet.git
