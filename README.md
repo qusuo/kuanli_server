@@ -21,7 +21,7 @@
 启动MainServer如下所示:
 
 ```shell
-# sh MainServer/start.sh node3 1
+# bash MainServer/start.sh node3 1
 NodeName = node3, ServerKind = MainServer, ServerNo = 1
 debug port is   8501
 ```
